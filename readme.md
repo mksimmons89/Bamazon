@@ -1,4 +1,4 @@
-![Welcome prompt](https://github.com/mksimmons89/Bamazon/screenshots/storeWelcome.png)
+![Welcome prompt](https://github.com/mksimmons89/Bamazon/blob/master/screenshots/storeWelcome.png)
 After requiring all the nmp installations and connecting our pages together
 (including connecting mySQL database), we were ready to begin. I created a read
 and update function that scanned the mySQL database before we could launch the
@@ -25,8 +25,9 @@ If you have the right quantity, the count on that item with go down by 1.
 
 
 
-![Confirms your selections and gives you your total](https://github.com/mksimmons89/Bamazon/blob/master/screenshots/Selection_and_Summary.png)
+![Confirms your selections and gives you your
+total](https://github.com/mksimmons89/Bamazon/blob/master/screenshots/SelectionandSummary.png)and_Summary.png)
 Here, all the info is iterated back to you by using pre established variables in
 an answer function. Also using answer as an argument in a final function, you
 are asked if you would like to start over. If yes, our start over function
-brings you back to the beginning. 
+brings you back to the beginning.
